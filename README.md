@@ -1,11 +1,11 @@
 # Machine Learning
 
-- Simple Linear Regression
-- Multiple Linear Regression
-- Logistic Regression
-- the K Nearest Neighbors Algorithm
-- Decision Trees Algorithms
-- Evaluation Metrics
+1. Simple Linear Regression
+2. Multiple Linear Regression
+3. Logistic Regression
+4. the K Nearest Neighbors Algorithm
+5. Decision Trees Algorithms
+6. Evaluation Metrics
 
 Notes:
 * [Python](https://www.evernote.com/shard/s467/sh/ada7d7c3-ca3a-a4e3-2495-d708c2039cbc/YQE9K4UEF4WZRGYLXrJKKQ5HiOJi-kMTzTcyqytFzInuyFltk0NmGOQADQ)
